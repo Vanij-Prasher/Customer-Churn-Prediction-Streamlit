@@ -1,4 +1,8 @@
-# Celebal Tech Internship – Week 1 Tasks
+# 🎓 Celebal Tech Internship – Week 1 Tasks
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
+[![Internship](https://img.shields.io/badge/Internship-Celebal%20Tech-%23007ACC?logo=github)](https://www.celebaltech.com/)
+
 
 Welcome to my GitHub repository for **Week 1** of the **Data Science Internship at Celebal Tech**.  
 This repository contains Python code implementations for basic pattern printing using loops — a foundational task designed to assess understanding of control structures and formatting in Python.
@@ -32,27 +36,32 @@ Celebal-Tech-Vanij/
 ## 🏁 Output Examples
 
 ### 🔹 Lower Triangular Pattern
+```
 * 
 * * 
 * * * 
 * * * * 
-* * * * * 
+* * * * *
+```
 
 ### 🔹 Upper Triangular Pattern
+
+```
 * * * * * 
 * * * * 
 * * * 
 * * 
 *
+```
 
 ### 🔹 Pyramid Pattern
-
+```
     *
    * * 
   * * * 
  * * * * 
 * * * * * 
-
+```
 ---
 
 ## 📌 Purpose
@@ -68,6 +77,7 @@ This task is part of the **foundational training module** at **Celebal Tech**, m
 
 **Vanij Prasher**  
 B.E CSE AIML | 4th Year  
+Intern @ Celebal Tech
 GitHub: [github.com/Vanij-Prasher](https://github.com/Vanij-Prasher)
 
 ---
@@ -87,3 +97,4 @@ GitHub: [github.com/Vanij-Prasher](https://github.com/Vanij-Prasher)
    ```bash
    git clone https://github.com/your-username/Celebal-Tech-Vanij.git
    cd Celebal-Tech-Vanij
+
