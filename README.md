@@ -123,23 +123,26 @@ This task is part of the **foundational training module** at **Celebal Tech**, m
 
 ---
 ## 📁 File Structure
+<pre>
 Celebal-Tech-Vanij/
-├── Week1.py                        # Pattern printing in Python
-├── Week2.py                        # Singly Linked List using OOP
+├── Week1.py                         # Pattern printing in Python
+├── Week2.py                         # Singly Linked List using OOP
 ├── assignment3/
-│   ├── data_visualization_week3.py
-│   ├── Screenshot 1.png
-│   ├── Screenshot 2.png
-│   └── …
-├── README.md                       # Internship overview and task breakdown
+│   ├── data_visualization_week3.py  # Titanic dataset visualizations
+│   ├── Screenshot_1.png
+│   ├── Screenshot_2.png
+│   └── ...                          # More screenshots of plots
+├── README.md                        # Internship overview and task breakdown
+</pre>
+
 
 ## 🙋‍♂️ Author
+### 🙋‍♂️ Author
 
 **Vanij Prasher**  
-B.E CSE AIML | 4th Year  
-Intern @ Celebal Tech
-GitHub: [github.com/Vanij-Prasher](https://github.com/Vanij-Prasher)
-
+B.E. in Computer Science & Engineering (Artificial Intelligence & Machine Learning) – 4th Year  
+**Intern @ [Celebal Tech](https://www.celebaltech.com/)**  
+🌐 GitHub: [github.com/Vanij-Prasher](https://github.com/Vanij-Prasher)
 ---
 
 ## 📅 Internship Info
