@@ -82,16 +82,35 @@ Build comfort with basic syntax and GitHub push-pull workflow.
 **Goal:** Understand and implement linked data structures with classes.  
 **Task:** Create a Singly Linked List with:
 
-- ✅ Node & LinkedList classes
-- ✅ `add_node()` – Add node to end  
-- ✅ `print_list()` – Print the linked list  
-- ✅ `delete_nth_node(n)` – Delete the nth node (1-based index)
-- ✅ Exception handling for empty list / invalid index
+- Node & LinkedList classes
+- `add_node()` – Add node to end  
+- `print_list()` – Print the linked list  
+- `delete_nth_node(n)` – Delete the nth node (1-based index)
+- Exception handling for empty list / invalid index
 
 **Concepts Used:**  
 Classes, object references, method definition, edge case handling.
 
 ---
+### 📘 Week 3 – Titanic Dataset Visualization
+
+**Goal:** Perform data visualization using Seaborn and Matplotlib on the Titanic dataset.  
+**Task:** Load the Titanic dataset and generate multiple plots for EDA (Exploratory Data Analysis):
+
+- Survival count (`countplot`)
+- Survival by gender
+- Survival by passenger class
+- Age distribution by survival (`histplot`)
+- Heatmap of missing values (`heatmap`)
+- Save screenshots of each plot
+
+**Concepts Used:**  
+DataFrames, Seaborn visualizations, `matplotlib.pyplot`, categorical and continuous data plotting.
+
+### 🖼️ Sample Visualizations
+
+You’ll find the code and screenshots in the [`assignment3/`](assignment3/) folder.
+
 
 ## 📌 Purpose
 
@@ -100,13 +119,19 @@ This task is part of the **foundational training module** at **Celebal Tech**, m
 - Ensure familiarity with Git and GitHub workflows
 - Demonstrate readiness for further technical tasks in the internship
 - Learn OOP fundamentals, data structure traversal, and class-based design.
+- Understand dataset structure and build visual insights using plotting libraries. It forms the base of EDA in real-world data science workflows.
 
 ---
 ## 📁 File Structure
 Celebal-Tech-Vanij/
-├── Week1.py        # Pattern printing in Python
-├── Week2.py        # Singly Linked List using OOP
-├── README.md       # Internship overview and documentation
+├── Week1.py                        # Pattern printing in Python
+├── Week2.py                        # Singly Linked List using OOP
+├── assignment3/
+│   ├── data_visualization_week3.py
+│   ├── Screenshot 1.png
+│   ├── Screenshot 2.png
+│   └── …
+├── README.md                       # Internship overview and task breakdown
 
 ## 🙋‍♂️ Author
 
