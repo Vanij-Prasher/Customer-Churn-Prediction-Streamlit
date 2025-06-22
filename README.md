@@ -37,9 +37,9 @@ Each task is structured to strengthen:
 **Goal:** Learn basic control structures (`for` loops) and output formatting.  
 **Task:** Create 3 console-based patterns using `"*"`:
 
-- ✅ **Lower Triangular Pattern**  
-- ✅ **Upper Triangular Pattern**  
-- ✅ **Pyramid Pattern**
+- **Lower Triangular Pattern**  
+- **Upper Triangular Pattern**  
+- **Pyramid Pattern**
 
 **Concepts Used:**  
 `for` loops, `range()`, string multiplication, alignment using spaces.
