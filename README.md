@@ -149,7 +149,7 @@ B.E. in Computer Science & Engineering (Artificial Intelligence & Machine Learni
 
 **Company**: Celebal Tech  
 **Role**: Data Science Intern  
-**Week**: 1  
+**Week**: 3 --Completed--  
 **Focus**: Python basics and GitHub project structure
 
 ---
