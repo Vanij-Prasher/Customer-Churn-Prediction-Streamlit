@@ -27,6 +27,11 @@ Each task is structured to strengthen:
 - `for` loops and range-based iteration
 - String multiplication and spacing
 - Printing formatted output to the console
+- Data structures: Linked Lists
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Imputation
+- Data Visualization using Seaborn and Matplotlib
+- Correlation analysis and outlier detection
 
 ---
 
@@ -110,7 +115,41 @@ DataFrames, Seaborn visualizations, `matplotlib.pyplot`, categorical and continu
 ### 🖼️ Sample Visualizations
 
 You’ll find the code and screenshots in the [`assignment3/`](assignment3/) folder.
+___
+### 📘 Week 4 – Advanced Titanic Data Visualization and Preprocessing
 
+**Goal:** Perform in-depth data analysis, cleaning, imputation, outlier detection, and complex visualization using the Titanic dataset.
+
+**Task:**  
+=> Load the Titanic dataset using Seaborn.  
+=> Handle missing values using heatmaps and imputation techniques.  
+=> Impute missing ages based on passenger class.  
+=> Drop irrelevant columns like `deck` and rows with remaining missing data.  
+=> Perform univariate and multivariate visualizations:
+- Survival count
+- Gender distribution
+- Passenger class distribution
+- Age and fare distribution
+- Boxplot for outlier detection
+- Survival distribution by gender and class
+- Violin plot for survival and age distribution
+- Correlation heatmap (numeric columns only)
+
+**Concepts Used:**
+- Missing value handling and imputation
+- Advanced Seaborn visualizations: violin plots, boxplots, heatmaps
+- Outlier detection
+- Correlation analysis
+- Data cleaning workflows
+
+**Purpose:**  
+This task builds on Week 3 and introduces real-world data preprocessing steps, handling missing data, and advanced exploratory data analysis using visual techniques.
+
+### 🖼️ Sample Visualizations
+
+You’ll find the code and screenshots in the [`assignment4/`](assignment4/) folder.
+
+---
 
 ## 📌 Purpose
 
@@ -123,19 +162,22 @@ This task is part of the **foundational training module** at **Celebal Tech**, m
 
 ---
 ## 📁 File Structure
-<pre>
+
+```text
 Celebal-Tech-Vanij/
 ├── Week1.py                         # Pattern printing in Python
 ├── Week2.py                         # Singly Linked List using OOP
 ├── assignment3/
-│   ├── data_visualization_week3.py  # Titanic dataset visualizations
-│   ├── Screenshot_1.png
-│   ├── Screenshot_2.png
-│   └── ...                          # More screenshots of plots
+│   ├── data_visualization_week3.py  # Titanic dataset visualizations (Week 3)
+│   ├── Screenshot 2025-06-22 at ... # Screenshots for Week 3 visualizations
+│   └── ...
+├── assignment4/
+│   ├── week4.py                     # Advanced Titanic EDA (Week 4)
+│   ├── Screenshot 1.png             # Screenshots for Week 4 visualizations
+│   ├── Screenshot 2.png
+│   └── ...
 ├── README.md                        # Internship overview and task breakdown
-</pre>
-
-
+```
 ## 🙋‍♂️ Author
 ### 🙋‍♂️ Author
 
