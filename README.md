@@ -179,8 +179,6 @@ Celebal-Tech-Vanij/
 ├── README.md                        # Internship overview and task breakdown
 ```
 ## 🙋‍♂️ Author
-### 🙋‍♂️ Author
-
 **Vanij Prasher**  
 B.E. in Computer Science & Engineering (Artificial Intelligence & Machine Learning) – 4th Year  
 **Intern @ [Celebal Tech](https://www.celebaltech.com/)**  
@@ -191,7 +189,7 @@ B.E. in Computer Science & Engineering (Artificial Intelligence & Machine Learni
 
 **Company**: Celebal Tech  
 **Role**: Data Science Intern  
-**Week**: 3 --Completed--  
+**Week**: 4 --Completed--  
 **Focus**: Python basics and GitHub project structure
 
 ---
