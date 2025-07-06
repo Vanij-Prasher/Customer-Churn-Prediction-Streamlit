@@ -32,6 +32,9 @@ Each task is structured to strengthen:
 - Data Cleaning and Imputation
 - Data Visualization using Seaborn and Matplotlib
 - Correlation analysis and outlier detection
+- Supervised Machine Learning (Regression)
+- Hyperparameter Tuning using RandomizedSearchCV
+- Feature Engineering
 
 ---
 
@@ -151,14 +154,32 @@ You’ll find the code and screenshots in the [`assignment4/`](assignment4/) fol
 
 ---
 
-## 📌 Purpose
+### 📘 Week 5 – House Price Prediction using Machine Learning
 
-This task is part of the **foundational training module** at **Celebal Tech**, meant to:
-- Refresh basic Python syntax
-- Ensure familiarity with Git and GitHub workflows
-- Demonstrate readiness for further technical tasks in the internship
-- Learn OOP fundamentals, data structure traversal, and class-based design.
-- Understand dataset structure and build visual insights using plotting libraries. It forms the base of EDA in real-world data science workflows.
+**Goal:** Build a machine learning model to predict house prices using the Kaggle dataset:  
+[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+
+**Task:**
+- Load and preprocess the data (handle missing values, label encoding)
+- Perform feature engineering:
+  - Total bathrooms
+  - Total porch area
+  - House age
+- Train Random Forest Regressor
+- Evaluate model using RMSE
+- Generate final submission CSV
+
+**Concepts Used:**
+- Data preprocessing and imputation
+- Label encoding for categorical variables
+- Feature engineering for better model performance
+- Supervised learning: Random Forest Regressor
+- Model tuning using RandomizedSearchCV
+
+📝 Files:
+- `price_predict.py`: Python code for the entire pipeline
+- `Final_submission.csv`: Generated submission file
+- `train.csv`, `test.csv`: Dataset files
 
 ---
 ## 📁 File Structure
@@ -169,13 +190,17 @@ Celebal-Tech-Vanij/
 ├── Week2.py                         # Singly Linked List using OOP
 ├── assignment3/
 │   ├── data_visualization_week3.py  # Titanic dataset visualizations (Week 3)
-│   ├── Screenshot 2025-06-22 at ... # Screenshots for Week 3 visualizations
-│   └── ...
+│   ├── Screenshot...                 # Week 3 visualizations
 ├── assignment4/
 │   ├── week4.py                     # Advanced Titanic EDA (Week 4)
-│   ├── Screenshot 1.png             # Screenshots for Week 4 visualizations
-│   ├── Screenshot 2.png
-│   └── ...
+│   ├── Screenshot...                 # Week 4 visualizations
+├── Week5-house-prices-advanced-regression-techniques/
+│   ├── price_predict.py             # House price prediction code (Week 5)
+│   ├── Final_submission.csv         # Final submission CSV (Week 5)
+│   ├── train.csv                    # Training dataset
+│   ├── test.csv                     # Test dataset
+│   ├── sample_submission.csv        # Sample submission file
+│   ├── Screenshot....               # Screenshots (if applicable)
 ├── README.md                        # Internship overview and task breakdown
 ```
 ## 🙋‍♂️ Author
