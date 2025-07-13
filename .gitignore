@@ -1,1 +1,6 @@
-echo '.DS_Store' >> .gitignore.DS_Store
+
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv
