@@ -248,7 +248,7 @@ Celebal-Tech-Vanij/
 │   ├── week6_output.png             # Screenshot of Week 6 model results
 ├── README.md                        # Internship overview and task breakdown
 
-
+```
 ## 🙋‍♂️ Author
 **Vanij Prasher**  
 B.E. in Computer Science & Engineering (Artificial Intelligence & Machine Learning) – 4th Year  
