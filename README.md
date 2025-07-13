@@ -221,7 +221,7 @@ You’ll find the code and screenshots in the [`assignment4/`](assignment4/) fol
 
 You’ll find the code and screenshots in the [`assignment6/`](assignment6/) folder.
 
-![Model Output](assignment6/week6_output.png)
+
 
 ---
 
