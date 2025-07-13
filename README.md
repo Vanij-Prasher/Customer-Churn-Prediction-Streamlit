@@ -224,6 +224,7 @@ You’ll find the code and screenshots in the [`assignment6/`](assignment6/) fol
 ---
 ## 📁 File Structure
 
+---
 ```text
 Celebal-Tech-Vanij/
 ├── Week1.py                         # Pattern printing in Python
