@@ -184,6 +184,7 @@ You’ll find the code and screenshots in the [`assignment4/`](assignment4/) fol
 - `Final_submission.csv`: Generated submission file
 - `train.csv`, `test.csv`: Dataset files
 
+---
 
 ### 📘 Week 6 – Model Evaluation & Hyperparameter Tuning
 
@@ -221,10 +222,10 @@ You’ll find the code and screenshots in the [`assignment4/`](assignment4/) fol
 You’ll find the code and screenshots in the [`assignment6/`](assignment6/) folder.
 
 ![Model Output](assignment6/week6_output.png)
----
-## 📁 File Structure
 
 ---
+
+## 📁 File Structure
 ```text
 Celebal-Tech-Vanij/
 ├── Week1.py                         # Pattern printing in Python
