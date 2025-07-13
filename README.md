@@ -35,6 +35,9 @@ Each task is structured to strengthen:
 - Supervised Machine Learning (Regression)
 - Hyperparameter Tuning using RandomizedSearchCV
 - Feature Engineering
+- Classification metrics: Accuracy, Precision, Recall, F1-score
+- GridSearchCV & RandomizedSearchCV
+
 
 ---
 
@@ -181,6 +184,43 @@ You’ll find the code and screenshots in the [`assignment4/`](assignment4/) fol
 - `Final_submission.csv`: Generated submission file
 - `train.csv`, `test.csv`: Dataset files
 
+
+### 📘 Week 6 – Model Evaluation & Hyperparameter Tuning
+
+**Goal:** Train and evaluate multiple machine learning classification models using various evaluation metrics, and optimize their performance using hyperparameter tuning techniques.
+
+**Task:**
+=> Load a classification dataset and split it into training and testing sets  
+=> Train the following models:
+- Logistic Regression
+- Random Forest Classifier
+- Support Vector Machine (SVM)
+
+=> Evaluate each model using metrics:
+- Accuracy
+- Precision
+- Recall
+- F1-score
+
+=> Perform hyperparameter tuning:
+- `GridSearchCV` for Random Forest
+- `RandomizedSearchCV` for SVM
+
+=> Analyze results and select the best-performing model  
+=> Evaluate tuned models on the test set
+
+**Concepts Used:**
+- Classification algorithms
+- Evaluation metrics for classifiers
+- Cross-validation
+- Hyperparameter tuning with `GridSearchCV` and `RandomizedSearchCV`
+- Model comparison and result analysis
+
+### 🖼️ Sample Output
+
+You’ll find the code and screenshots in the [`assignment6/`](assignment6/) folder.
+
+![Model Output](assignment6/week6_output.png)
 ---
 ## 📁 File Structure
 
@@ -190,10 +230,10 @@ Celebal-Tech-Vanij/
 ├── Week2.py                         # Singly Linked List using OOP
 ├── assignment3/
 │   ├── data_visualization_week3.py  # Titanic dataset visualizations (Week 3)
-│   ├── Screenshot...                 # Week 3 visualizations
+│   ├── Screenshot...                # Week 3 visualizations
 ├── assignment4/
 │   ├── week4.py                     # Advanced Titanic EDA (Week 4)
-│   ├── Screenshot...                 # Week 4 visualizations
+│   ├── Screenshot...                # Week 4 visualizations
 ├── Week5-house-prices-advanced-regression-techniques/
 │   ├── price_predict.py             # House price prediction code (Week 5)
 │   ├── Final_submission.csv         # Final submission CSV (Week 5)
@@ -201,8 +241,12 @@ Celebal-Tech-Vanij/
 │   ├── test.csv                     # Test dataset
 │   ├── sample_submission.csv        # Sample submission file
 │   ├── Screenshot....               # Screenshots (if applicable)
+├── assignment6/
+│   ├── week6.py                     # Classification and hyperparameter tuning (Week 6)
+│   ├── week6_output.png             # Screenshot of Week 6 model results
 ├── README.md                        # Internship overview and task breakdown
-```
+
+
 ## 🙋‍♂️ Author
 **Vanij Prasher**  
 B.E. in Computer Science & Engineering (Artificial Intelligence & Machine Learning) – 4th Year  
