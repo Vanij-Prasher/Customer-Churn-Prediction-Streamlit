@@ -1,11 +1,11 @@
-# ⚡ Customer Churn Prediction Web App
+# ⚡ Customer Churn Prediction 
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen?logo=streamlit)](https://vanij-customer-churn-prediction-app.streamlit.app/)
 
 
 A modern, interactive Streamlit web application that predicts the likelihood of customer churn based on user-inputted telecom data. Powered by a trained **Random Forest Classifier**, the app also offers a dynamic **churn analytics dashboard** to visualize customer insights.
 
-🌐 **Live App**: [https://vanij-customer-churn-prediction-app.streamlit.app/](https://vanij-customer-churn-prediction-app.streamlit.app/)
+🌐 **Live App**: [[https://vanij-customer-churn-prediction-app.streamlit.app/](https://vanij-customer-churn-prediction-app.streamlit.app/](https://customer-churn-prediction-app-klzcihfkne2jpnt3ymkcw8.streamlit.app))
 
 ---
 
